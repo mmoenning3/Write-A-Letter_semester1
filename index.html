@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Write A Letter</title>
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.3.1/p5.min.js"></script>
+        <script type="text/javascript" src="sketch.js"></script>
+        <link rel="style" type="text/css" href="style.css" />
+    </head>
+    <nav id="sidebar">
+        <ul class="sidebar-nav">
+            <li>
+                <button class=sidebarbutton id="backButton">
+                </button>
+
+                <button class=sidebarbutton id="homeButton">
+                </button>
+
+                <button class=sidebarbutton id="helpButton">
+                </button>
+
+                <button class=sidebarbutton id="shopButton">
+                </button>
+            </li>
+            
+        </ul>
+
+    </nav>
+    <body>
+        <div class="right-sidebar">
+            <button class=sidebarbutton id="submitButton"></button>
+            <button class=sidebarbutton id="redoButton" onclick="setup()"></button>
+            <audio id="audio-button">
+                <source src="audio/A.mp3" type="audio/ogg">
+                <source src="audio/A.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            <button class=sidebarbutton id="audioButton" onclick="playAudio()" type="button"></button>
+            <button class=sidebarbutton id="colorButton">
+                <input type="color" id="colorpicker" value="#000000">
+            </button>
+        </div>
+    </body>
+</html>

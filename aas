@@ -1,0 +1,61 @@
+[33mcommit 8b09d3a5e35a0f770048799ce36312ecfec69b2c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/Yukun[m[33m, [m[1;32mmiriam[m[33m, [m[1;32mYukun[m[33m)[m
+Author: Zheng, Yukun <yzheng437@gatech.edu>
+Date:   Sun Nov 28 23:43:14 2021 -0500
+
+    add clear function
+
+[33mcommit 73bb2cb6e1bb4f8eaa96ee884935c7465f60f7b6[m
+Merge: 83c1218 7042377
+Author: Miriam Morris <miriam.morris@gatech.edu>
+Date:   Sun Nov 28 17:57:29 2021 -0500
+
+    Include palette button
+
+[33mcommit 83c1218d12db73a9572f6bd6318905859b7c82ac[m
+Author: Miriam Morris <miriam.morris@gatech.edu>
+Date:   Sun Nov 28 17:52:50 2021 -0500
+
+    Add right-side buttons (including functioning audio button)
+
+[33mcommit 7042377c05740220ecd4ba87a51922bc8d866b1f[m
+Author: Zheng, Yukun <yzheng437@gatech.edu>
+Date:   Tue Nov 23 20:06:35 2021 -0500
+
+    add palete and select color function
+
+[33mcommit 0c62cad673f72db1c10acecc9fcb0e737682f987[m
+Author: Moenning, Melanie Kate <mmoenning3@gatech.edu>
+Date:   Sun Nov 21 12:25:27 2021 -0500
+
+    create beginning code for navbar
+
+[33mcommit 0098cd54481957c1c025663054e2523e8e4621f9[m
+Author: Moenning, Melanie Kate <mmoenning3@gatech.edu>
+Date:   Sun Nov 21 12:13:45 2021 -0500
+
+    style and create base of navbar
+
+[33mcommit 6affd78b071d317fe0d50746d81286152619fc26[m
+Author: oknauf <70602902+oknauf@users.noreply.github.com>
+Date:   Thu Nov 18 17:18:02 2021 -0500
+
+    update readme
+
+[33mcommit c60adbb6b68daf05b62a1668fd5377228b39d811[m
+Merge: 3684185 2e600ef
+Author: oknauf <70602902+oknauf@users.noreply.github.com>
+Date:   Thu Nov 18 17:16:50 2021 -0500
+
+    Add ability to write on page
+
+[33mcommit 2e600effe6c5d1123b72693875daede7b81a0d82[m[33m ([m[1;31morigin/oliver[m[33m, [m[1;32moliver[m[33m)[m
+Author: oknauf <70602902+oknauf@users.noreply.github.com>
+Date:   Thu Nov 18 17:16:32 2021 -0500
+
+    Add ability to write on page
+
+[33mcommit 36841850f254571e3288c848c50313d79e28da44[m
+Author: Moenning, Melanie Kate <mmoenning3@gatech.edu>
+Date:   Thu Nov 18 14:00:14 2021 -0500
+
+    create files
